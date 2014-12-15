@@ -2,7 +2,7 @@ SpamWatch
 =========
 
 Demo: http://104.236.46.207/~aleks/spamWatch/maps.html
-
+(Unfortunately, it seems to only work in Chrome right now)
 Geolocational Display of unwanted access attempts from foreign IPs
 
 The purpose of this exploration is to display the geolocational data derived from Whois lookups in a more visually appealing way. For this I will use Google Maps API
